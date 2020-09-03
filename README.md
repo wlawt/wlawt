@@ -2,6 +2,7 @@
 ### Now 
 - Learning infrastructure / devops
 - Learning and practicing system design
+- Learning and investing
 
 ### Recent
 - Contributed / led [@babel](https://github.com/MLH-Fellowship/babel-sandbox) REPL Sandboxes
