@@ -1,3 +1,1 @@
-Hi there! I am interested in crypto and improving blockchain infrastructure. 
-
-Previously at Aptos Labs, Foundry Digital. Fourth-year student at the University of Waterloo studying Computer Science.
+Fourth-year student at the University of Waterloo studying Computer Science with a focus on distributed systems and entrepreneurship.
